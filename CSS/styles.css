@@ -1,26 +1,30 @@
-body {
-    font-family: roboto, sans-serif;
+.body {
+    font-family: "roboto" sans-serif;
      color: #434455;
      background-color: #fff;
 }
+
 a {
     text-decoration: none;
 }
 ul, ol {
     list-style: none;
 }
+
 .logo {
-    font-family: Raleway, sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
-        font-size: 15px;
-        line-height: 1.16667;
+        font-size: 18px;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
 }
+
 .logo-part{
     color: #2e2f42;
 }
+
 .nav-link{
     font-weight: 500;
         font-size: 13px;
@@ -32,15 +36,18 @@ ul, ol {
 .nav-link:focus{
     color: #404bbf;
 }
+
 .address{
     font-style: normal;
 }
+
 .address-link{
         font-size: 13px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
+
 .address-link:hover,
 .address-link:focus{
     color: #404bbf;
@@ -68,9 +75,13 @@ ul, ol {
 }
 /* advetages */
 
-.adventages {}
+.adventages {
+    background-color: #F4F4FD
+}
 
-.adventages-list {}
+.adventages-list {
+    background-color: #FFFFFF
+}
 
 .adventages-item {}
 
@@ -134,7 +145,7 @@ font-weight: 500;
 .portfolio-item {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
@@ -166,9 +177,12 @@ font-weight: 500;
 
 /* Footer */
 
-.footer {}
+.footer {
+    background-color: #2e2f42
+}
 
 .footer-list {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
