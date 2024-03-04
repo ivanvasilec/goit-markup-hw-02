@@ -1,4 +1,4 @@
-.body {
+body {
      font-family: "roboto" sans-serif;
      color: #434455;
      background-color: #fff;
@@ -21,11 +21,11 @@ ul, ol {
         color: #4d5ae5;
 }
 
-.logo-part{
+.logo-part {
     color: #2e2f42;
 }
 
-.nav-link{
+.nav-link {
     font-weight: 500;
         font-size: 13px;
         line-height: 1.5;
@@ -33,15 +33,15 @@ ul, ol {
         color: #2e2f42;
 }
 .nav-link:hover,
-.nav-link:focus{
+.nav-link:focus {
     color: #404bbf;
 }
 
-.address{
+.address {
     font-style: normal;
 }
 
-.address-link{
+.address-link {
         font-size: 13px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -49,7 +49,7 @@ ul, ol {
 }
 
 .address-link:hover,
-.address-link:focus{
+.address-link:focus {
     color: #404bbf;
 }
 /* hero  */
