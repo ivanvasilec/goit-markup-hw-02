@@ -26,8 +26,8 @@ ul, ol {
 }
 
 .nav-link {
-    font-weight: 500;
-        font-size: 13px;
+        font-weight: 500;
+        font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
@@ -42,7 +42,7 @@ ul, ol {
 }
 
 .address-link {
-        font-size: 13px;
+        font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
@@ -57,8 +57,8 @@ ul, ol {
     background: #2e2f42;
 }
 
-.hero-title {
-    font-weight: 700;
+.hero-title {       
+        font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
@@ -67,11 +67,13 @@ ul, ol {
 }
 
 .hero-order {
+    
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        color: #fff;
+        color: #fff; 
+         background-color: #4D5AE5
 }
 /* advetages */
 
@@ -103,19 +105,23 @@ font-weight: 500;
 
 /* Team */
 
-.team {}
+.team {
+    background-color: #F4F4FD
+}
 
 .team-item {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
 }
 
-.team-list-title {}
+.team-list-title {
+    background-color: #FFFFFF
+}
 
 .team-list {}
 
