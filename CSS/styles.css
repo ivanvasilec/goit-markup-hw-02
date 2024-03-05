@@ -77,15 +77,6 @@ ul, ol {
         cursor: pointer
 }
 
-.hero-order-title {
-
-    }
-
-.hero-order {
-   
- 
-        
-}
 .hero-order:hover,
 .hero-order:focus {
 background-color: #404BBF
@@ -97,6 +88,13 @@ background-color: #404BBF
     background-color: #F4F4FD
 }
 
+.adventages-item-list {
+                font-weight: 500;
+                font-size: 20px;
+                line-height: 1.2;
+                letter-spacing: 0.02em;
+                color: #2e2f42;
+}
 .adventages-item-list {
                 font-weight: 500;
                 font-size: 20px;
