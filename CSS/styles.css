@@ -67,14 +67,18 @@ ul, ol {
 }
 
 .hero-order {
-    
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        cursor: pointer
+        cursor: pointer  
 }
+.hero-order:hover,
+.hero-order:focus {
+background-color: #404BBF
+}
+
 /* advetages */
 
 .adventages {
@@ -82,11 +86,11 @@ ul, ol {
 }
 
 .adventages-item-list {
-        font-weight: 500;
-            font-size: 20px;
-            line-height: 1.2;
-            letter-spacing: 0.02em;
-            color: #2e2f42;
+            font-weight: 500;
+                font-size: 20px;
+                line-height: 1.2;
+                letter-spacing: 0.02em;
+                color: #2e2f42;
 }
 
 .adventages-list {
