@@ -72,8 +72,8 @@ ul, ol {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        color: #fff; 
-         background-color: #4D5AE5
+        color: #fff;
+        cursor: pointer
 }
 /* advetages */
 
@@ -81,18 +81,22 @@ ul, ol {
     background-color: #F4F4FD
 }
 
-.adventages-list {
-    background-color: #FFFFFF
-}
-
-.adventages-item {}
-
-.adventages-subtitle {
-font-weight: 500;
+.adventages-item-list {
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.adventages-list {
+    background-color: #FFFFFF
+}
+
+.adventages-item-title {}
+
+.adventages-subtitle {
+
 }
 
 .adventages-item-text {
