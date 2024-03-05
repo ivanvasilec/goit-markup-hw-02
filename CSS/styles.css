@@ -82,11 +82,11 @@ ul, ol {
 }
 
 .adventages-item-list {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+        font-weight: 500;
+            font-size: 20px;
+            line-height: 1.2;
+            letter-spacing: 0.02em;
+            color: #2e2f42;
 }
 
 .adventages-list {
@@ -102,9 +102,8 @@ ul, ol {
 .adventages-item-text {
     font-weight: 400;
         font-size: 16px;
-        line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
+        line-height: 1.5
 }
 
 /* Team */
@@ -127,7 +126,9 @@ ul, ol {
     background-color: #FFFFFF
 }
 
-.team-list {}
+.team-list {
+    background-color: #FFFFFF
+}
 
 .team-item-picture {}
 
