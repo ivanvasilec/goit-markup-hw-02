@@ -67,12 +67,23 @@ ul, ol {
 }
 
 .hero-order {
+    background-color: #4D5AE5
+}
+
+.hero-order-title {
+    font-family: "Raleway", sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        cursor: pointer  
+        cursor: pointer
+    }
+
+.hero-order {
+   
+ 
+        
 }
 .hero-order:hover,
 .hero-order:focus {
@@ -86,7 +97,7 @@ background-color: #404BBF
 }
 
 .adventages-item-list {
-            font-weight: 500;
+                font-weight: 500;
                 font-size: 20px;
                 line-height: 1.2;
                 letter-spacing: 0.02em;
