@@ -96,18 +96,20 @@ background-color: #404BBF
                 color: #2e2f42;
 }
 .adventages-item-list {
-                font-weight: 500;
-                font-size: 20px;
-                line-height: 1.2;
-                letter-spacing: 0.02em;
-                color: #2e2f42;
+
 }
 
 .adventages-list {
     background-color: #FFFFFF
 }
 
-.adventages-item-title {}
+.adventages-item-title {
+                font-weight: 500;
+                font-size: 20px;
+                line-height: 1.2;
+                letter-spacing: 0.02em;
+                color: #2e2f42;
+            }
 
 .adventages-subtitle {
 
