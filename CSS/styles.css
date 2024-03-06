@@ -67,8 +67,8 @@ ul, ol {
 }
 
 .hero-order {
-    background-color: #4D5AE5;
-        font-family: "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
+        background-color: #4D5AE5;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -89,37 +89,34 @@ background-color: #404BBF
 }
 
 .adventages-item-list {
-                font-weight: 500;
-                font-size: 20px;
-                line-height: 1.2;
-                letter-spacing: 0.02em;
-                color: #2e2f42;
+ 
 }
 .adventages-item-list {
 
 }
 
 .adventages-list {
-    background-color: #FFFFFF
+    ackground-color: #FFFFFF
 }
 
-.adventages-item-title {
-                font-weight: 500;
+.adventages-item-title {}
+
+.adventages-subtitle {
+                   font-weight: 500;
                 font-size: 20px;
                 line-height: 1.2;
                 letter-spacing: 0.02em;
                 color: #2e2f42;
-            }
-
-.adventages-subtitle {
-
 }
 
 .adventages-item-text {
-    font-weight: 400;
+    font-family: "Raleway", sans-serif;
+        font-weight: 400;
         font-size: 16px;
         letter-spacing: 0.02em;
-        line-height: 1.5
+        line-height: 1.5;
+        color: #434455;
+        
 }
 
 /* Team */
